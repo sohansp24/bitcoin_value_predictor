@@ -3,6 +3,7 @@ Bitcoin value predictor using machine learning
 This is Bitcion value predictor project using machine learning algorithms.This project uses Random Forest and Decision tree Regressor to predict  the value according to the past Bitcoin proce records contained in bitcoin.csv file uploaded herewith.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 How to run the application:
 1) First make sure that you have Python interpreter installed on your system.If not install and download the same from python.org website.Python3 setup is recomended.
 2) If python not installed then run the setup downloaded from the website mentioned above and give necessary permissions(For windows click on allow torun the setup).
