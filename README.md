@@ -9,9 +9,9 @@ How to run the application:
 2) If python not installed then run the setup downloaded from the website mentioned above and give necessary permissions(For windows click on allow torun the setup).
 3) Click on add python to path so that you can install necessary libraries hasle-free.
 4) Once setup sucessful open Command prompt on windows or Terminal on Linux systems and run the  following command.
-5) pip3 install numpy
-  pip3 install pandas 
-  pip3 install sklearn
+5) i) pip3 install numpy  
+   ii) pip3 install pandas  
+   iii) pip3 install sklearn  
 6) If you are getting error like pip3 was not recognised for windows and pip3 command not found for Linux systems then do following steps:
     a) For Linux run the following commands
       i) Ubuntu based systems:  
